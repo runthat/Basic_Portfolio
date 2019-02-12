@@ -215,3 +215,9 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+  padding-bottom: 50px;
+}
